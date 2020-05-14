@@ -1,0 +1,16 @@
+{
+  "ips": [
+    {
+      "ip": "123123412",
+      "detail": "for what you are ban"
+    },
+    {
+      "ip": "::1",
+      "detail": "ban farshid"
+    },
+    {
+      "ip": "12312341121222",
+      "detail": "for what you are ban"
+    }
+  ]
+}
